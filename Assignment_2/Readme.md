@@ -196,7 +196,7 @@ Implement a **router-based LangGraph** that:
 ---
 
 ### Graph Design
-
+```
 User Message
 ↓
 Router
@@ -206,6 +206,7 @@ Python General
 Agent Agent
 ↓ ↓
 END END
+```
 
 
 ---
