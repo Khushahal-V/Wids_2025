@@ -112,21 +112,15 @@ The agents communicate through shared graph state.
 ---
 
 ### Graph Design
-
+```
 User Question
-
-
 ↓
 Question Analyzer
-
-
 ↓
 Answer Generator
-
-
 ↓
 END
-
+```
 
 ---
 
