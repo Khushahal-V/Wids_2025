@@ -54,8 +54,9 @@ Build a **LangGraph application with a single Hugging Face LLM node** that:
 - Entry point: `llm`
 - Single node graph
 - The graph terminates immediately after the LLM responds
-
+```
 User Input → LLM Node → END
+```
 
 
 ---
