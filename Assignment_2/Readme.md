@@ -204,9 +204,9 @@ Router
 ↓
 Routes to one of the following:
 
-Python Agent
+  → Python Agent
 
-General Agent
+  → General Agent
 ↓
 END
 
