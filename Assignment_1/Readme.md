@@ -10,10 +10,12 @@ The assignment demonstrates three fundamental NLP tasks:
 
 
 ## Folder Structure
+```
 ├── Hugging_face.ipynb # Q1: Text summarization using Hugging Face pipeline
 ├──                    # Q2: Text generation using Hugging Face pipeline
 ├──                    # Q3: Sentiment analysis on multiple reviews
 └── README.md # Documentation for Assignment 1
+```
 
 
 
