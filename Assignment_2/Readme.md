@@ -201,12 +201,14 @@ Implement a **router-based LangGraph** that:
 User Message
 ↓
 Router
-/
-/
-Python General
-Agent Agent
-↓ ↓
-END END
+↓
+Routes to one of the following:
+
+Python Agent
+
+General Agent
+↓
+END
 
 
 ```
