@@ -196,6 +196,7 @@ Implement a **router-based LangGraph** that:
 ---
 
 ### Graph Design
+```
 
 User Message
 ↓
@@ -208,7 +209,7 @@ Agent Agent
 END END
 
 
-
+```
 ---
 
 ### Implementation Details
